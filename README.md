@@ -26,7 +26,6 @@ This is a simplified trading bot built using the `python-binance` library to int
 
 ### 📦 Install Dependencies
 
-```bash
 pip install python-binance
 
 ##⚙️ Usage
