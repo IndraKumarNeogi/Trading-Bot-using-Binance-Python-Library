@@ -1,6 +1,6 @@
 # Trading-Bot-using-Binance-Python-Library
 
-
+```bash
 This is a simplified trading bot built using the `python-binance` library to interact with the Binance USDT-M Futures **Testnet**. The bot allows users to place market and limit orders, handle both buy and sell sides, and provides clear logging and error tracking.
 
 ## 🔧 Features
